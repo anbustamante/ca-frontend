@@ -1,0 +1,1 @@
+{"name":"Mi PWA con React","short_name":"PWA React","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"Mi aplicación PWA creada con React, Chakra UI y Vite","theme_color":"#ffffff","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
